@@ -3,21 +3,21 @@
 ## Table of Content 
 [Project Overview](#project-overview)
 
-[Exploratory Data Analysis](Exploratory-Data-Analysis)
+[Exploratory Data Analysis](#Exploratory-Data-Analysis)
 
-[Feature Engineering](Feature-Engineering)
+[Feature Engineering](#Feature-Engineering)
 
-[Feature Selection](Feature-Selection)
+[Feature Selection](#Feature-Selection)
 
-[Requirement](Requirement)
+[Requirement](#Requirement)
 
-[Installation](Installation)
+[Installation](#Installation)
 
-[Usage](Usage)
+[Usage](#Usage)
 
-[Contributing](Contributing)
+[Contributing](#Contributing)
 
-[License](License)
+[License](#License)
 
 
 ### Project Overview
