@@ -1,7 +1,7 @@
 # House Prices: Advanced Regression Techniques
 
 ## Table of Content 
-[Project Overview](project-overview)
+[Project Overview](#project-overview)
 
 [Exploratory Data Analysis](Exploratory-Data-Analysis)
 
